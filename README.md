@@ -141,7 +141,7 @@ The Excel dashboard included in the dataset:
   - [Open Dataset + Dashboard](https://github.com/temilyst/Sports-Injury-Analysis/raw/refs/heads/main/sport%20injury%20analysis%20the%20real%20deal.xlsx)
 - **Images**
   - ![Dashboard Preview](Images/dashboard_preview.png)
-- 
+
 
 ---
 
