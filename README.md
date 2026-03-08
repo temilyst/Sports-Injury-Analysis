@@ -135,20 +135,15 @@ The Excel dashboard includes:
 
 ## Project Structure
 
-```
-Sports-Injury-Analysis
-│
-├── Data
-│   └── [Open Dataset + Dashboard](https://github.com/temilyst/Sports-Injury-Analysis/raw/refs/heads/main/sport%20injury%20analysis%20the%20real%20deal.xlsx)
-│
-├── Dashboard
-│   └── injury_dashboard.xlsx
-│
-├── Images
-│   └── dashboard_preview.png
-│
-└── README.md
-```
+- **Data**
+  - [Open Dataset + Dashboard](https://github.com/temilyst/Sports-Injury-Analysis/raw/refs/heads/main/sport%20injury%20analysis%20the%20real%20deal.xlsx)
+- **Dashboard**
+  - [Injury Dashboard](Dashboard/injury_dashboard.xlsx)
+- **Images**
+  - ![Dashboard Preview](Images/dashboard_preview.png)
+- **README.md** (this file)
+
+> ✅ Notice: The folder structure now looks neat, and **all links are clickable**.
 
 ---
 
