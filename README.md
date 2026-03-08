@@ -36,7 +36,7 @@ The dataset contains **15,000 records** of sports injuries.
 
 ### Fact Table
 
-**Injury_Fact_Table**
+**Injury_Fact_Table**  
 
 Columns include:
 
@@ -112,7 +112,7 @@ This structure improves data organization and analysis performance.
 
 ## Dashboard Features
 
-The Excel dashboard includes:
+The Excel dashboard included in the dataset:
 
 - Total Injury Count
 - Recurrence Rate
@@ -121,6 +121,8 @@ The Excel dashboard includes:
 - Injuries by Injury Type
 - Treatment Effectiveness
 - Training Workload vs Injury Risk
+
+> ✅ All files are organized with clickable links. The dataset includes the dashboard, and a preview image is provided for quick reference.
 
 ---
 
@@ -137,16 +139,24 @@ The Excel dashboard includes:
 
 - **Data**
   - [Open Dataset + Dashboard](https://github.com/temilyst/Sports-Injury-Analysis/raw/refs/heads/main/sport%20injury%20analysis%20the%20real%20deal.xlsx)
-- **Dashboard**
-  - [Injury Dashboard](Dashboard/injury_dashboard.xlsx)
 - **Images**
   - ![Dashboard Preview](Images/dashboard_preview.png)
 - **README.md** (this file)
 
-> ✅ Notice: The folder structure now looks neat, and **all links are clickable**.
+---
+
+## How to Use
+
+1. Click the link under **Data** to download the Excel file with the embedded dashboard.
+2. Open the file in Microsoft Excel to explore the dashboard and analyze the data.
+3. Refer to the screenshot under **Images** for a quick visual overview.
 
 ---
 
 ## Author
 
-Portfolio project demonstrating **data analysis, data modeling, and dashboard design using Excel**.
+**Temilyst** – Portfolio project demonstrating **data analysis, data modeling, and dashboard design using Excel**.  
+
+- 📧 Email: [ebotemitopeserah@gmail.com](mailto:ebotemitopeserah@gmail.com)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/temitopeebo](https://www.linkedin.com/in/temitopeebo)  
+- GitHub: [https://github.com/temilyst](https://github.com/temilyst)
