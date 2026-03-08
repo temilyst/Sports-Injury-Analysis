@@ -141,7 +141,7 @@ The Excel dashboard included in the dataset:
   - [Open Dataset + Dashboard](https://github.com/temilyst/Sports-Injury-Analysis/raw/refs/heads/main/sport%20injury%20analysis%20the%20real%20deal.xlsx)
 - **Images**
   - ![Dashboard Preview](Images/dashboard_preview.png)
-- **README.md** (this file)
+- 
 
 ---
 
@@ -149,7 +149,7 @@ The Excel dashboard included in the dataset:
 
 1. Click the link under **Data** to download the Excel file with the embedded dashboard.
 2. Open the file in Microsoft Excel to explore the dashboard and analyze the data.
-3. Refer to the screenshot under **Images** for a quick visual overview.
+
 
 ---
 
